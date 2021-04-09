@@ -5,7 +5,7 @@
 #### Visit my [YouTube account: Eliza Ira Ramos](https://www.youtube.com/watch?v=cOJLHknths8) to watch on how to create this Artwork using CSS.
 
 
-##### To execute the file click clone or download.
+##### Note: To execute the file click clone or download.
 #### Here you will learn how to create circle, half-circle and oblong shape to build Elmo's face.
 
 
@@ -18,3 +18,5 @@
 * margin
 
 
+### Div and Class
+##### Div
