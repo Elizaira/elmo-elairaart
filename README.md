@@ -41,3 +41,7 @@
 
 ### Margin
 #### In CSS margins can be use to adjust the position. Declare `margin-right` or `right`, `margin-left` or `left`, `margin-bottom` or `margin-top` to change position.
+
+### To know more, you can follow me on any of my social media accounts:
+
+![GitHub Logo](/images/elmo-social-media.jpg)
